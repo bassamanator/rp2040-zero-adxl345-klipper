@@ -2,7 +2,7 @@
 
 ## Connect your ADXL345 to your host Raspberry Pi via a RP2040-Zero
 
-<img src="./images/RP2040-Zero.jpg" width="400" alt='RP2040-Zero'/><img src="./images/ADXL345.jpg" width="175" alt='ADXL345'/>
+<img src="./images/rpi.jpg" width="300" alt='Raspberry Pi'/><img src="./images/RP2040-Zero.jpg" width="400" alt='RP2040-Zero'/><img src="./images/ADXL345.jpg" width="175" alt='ADXL345'/>
 
 ## My mounting solution for the Sovol SV06
 
