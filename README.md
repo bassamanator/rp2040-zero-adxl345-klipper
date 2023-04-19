@@ -31,5 +31,5 @@ spi_bus: spi0a
 
 - [Link to the Sovol SV06 ADXL345 Mounting Solution](https://www.printables.com/model/385334-sovol-sv06-adxl345-mount-printhead-and-bed)
 - [Link to my Sovol SV06 Klipper Config](https://github.com/bassamanator/Sovol-SV06-firmware/tree/master)
-- https://github.com/Travis90x/TwoTrees-Sapphire-Plus-SP5-Marlin/tree/default/Klipper-Firmware
+- https://github.com/Travis90x/TwoTrees-Sapphire-Plus-SP5-Klipper/tree/main/RP2040_Firmware
 - https://travis90x.altervista.org/klipper-adxl345-raspberry-pi-rp2040-zero/?doing_wp_cron=1675003889.0499060153961181640625
