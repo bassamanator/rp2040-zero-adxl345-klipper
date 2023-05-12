@@ -26,6 +26,9 @@ serial: /dev/serial/by-id/usb-Klipper_rp2040_E66138935F154C28-if00
 cs_pin: RP2040:gpio1
 spi_bus: spi0a
 ```
+## <img src="./images/cup-border.png" width="30" alt='Ko-fi'/> Support Me <img src="./images/cup-border.png" width="30" alt='Ko-fi'/>
+
+<img src="./images/heart.gif" width="17" alt=''/> If you found my work useful, please consider buying me a [<img src="./images/logo_white_stroke.png" height="20" alt='Ko-fi'/>](https://ko-fi.com/bassamanator).
 
 ## Sources
 
