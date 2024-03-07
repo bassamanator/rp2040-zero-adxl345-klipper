@@ -6,11 +6,12 @@
 
 ## My mounting solution for the Sovol SV06
 
-I use this on my Sovol SV06. I *highly* recommend using short cables.
+I use [this](https://www.printables.com/model/385334-adxl345-mount-for-the-sovol-sv06plus) on my Sovol SV06. I _highly_ recommend using short cables.
 
-<img src="./images/setup1.jpg" width="400" alt='Setup 1'/> <img src="./images/setup2.jpg" width="400" alt='Setup 2'/> 
+<img src="./images/setup1.jpg" width="400" alt='Setup 1'/> <img src="./images/setup2.jpg" width="400" alt='Setup 2'/>
 
 ## Diagram
+
 ![Diagram](./images/diagram.png)
 
 ## Config
@@ -26,9 +27,12 @@ serial: /dev/serial/by-id/usb-Klipper_rp2040_E66138935F154C28-if00
 cs_pin: RP2040:gpio1
 spi_bus: spi0a
 ```
+
 ## <img src="./images/cup-border.png" width="30" alt='Ko-fi'/> Support Me <img src="./images/cup-border.png" width="30" alt='Ko-fi'/>
 
-<img src="./images/heart.gif" width="17" alt=''/> If you found my work useful, please consider buying me a [<img src="./images/logo_white_stroke.png" height="20" alt='Ko-fi'/>](https://ko-fi.com/bassamanator).
+Please ⭐ star this repository!
+
+Support [open source](https://en.wikipedia.org/wiki/Open_source), and buy me a [<img src="./images/logo_white_stroke.png" height="20" alt='Ko-fi'/>](https://ko-fi.com/bassamanator).
 
 ## Sources
 
